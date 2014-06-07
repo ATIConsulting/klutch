@@ -4,7 +4,7 @@ Klutch is a social media tool that enables user to easily makes fun plan with fr
 
 ##How does it look in phones?
 
-![Login screen for klutch](docs/shot1.png =300x500)
+![Login screen for klutch](./docs/shot1.png)
 
 
 ##How does it look in tablet?
