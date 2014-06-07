@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Klutch</string>
+    <string name="howto_title_gettogether">Get Together, Faster</string>
+    <string name="howto_description_gettogether">It\'s easy! simply invite some friends and send along a short message</string>
+    <string name="howto_title_plana_planb">Plan A or Plan B?</string>
+    <string name="howto_description_plana_planb">Everyone invited can add specific plans and vote - like a group negotiation!</string>
+    <string name="howto_title_group_chat">Group chat</string>
+    <string name="howto_description_group_chat">Chat with friends before, during and after you get together</string>
+    <string name="howto_title_magic_inbox">Magic Inbox</string>
+    <string name="howto_description_magic_inbox">Create magic experiences with friends and we\'ll keep track of them for you!</string>
+    <string name="connect_the_world">Connect in the Real world</string>
+    <string name="login_note">We\'ll never share your number</string>
+    <string name="sign_in_with_mobile">Sign in with mobile</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="KlutchTheme" parent="android:Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:buttonStyle">@style/ButtonKlutch</item>
+
+        <item name="android:imageButtonStyle">@style/ImageButtonKlutch</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="KlutchTheme.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowTitleSize">0dp</item>
+    </style>
+
+    <style name="ButtonKlutch" parent="android:Widget.Holo.Light.Button">
+        <item name="android:background">@drawable/klutch_btn_default_holo_light</item>
+    </style>
+
+    <style name="ImageButtonKlutch" parent="android:Widget.Holo.Light.ImageButton">
+        <item name="android:background">@drawable/klutch_btn_default_holo_light</item>
+    </style>
+
+
+</resources>

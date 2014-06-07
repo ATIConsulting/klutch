@@ -1,0 +1,41 @@
+# generated files
+bin/
+gen/
+.gradle
+/*/local.properties
+/*/out
+libraries/*/build
+/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+
+#Ignore intelliJ file
+*.iml
+.idea
+
+
+#Mac base files
+.DS_Store
+
+
+#ignore ant properties
+ant.properties
+local.properties
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+*.class
+
+*.diff
+
+#crashlytics xml
+com_crashlytics_export_strings.xml
+
